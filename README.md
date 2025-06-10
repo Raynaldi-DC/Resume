@@ -50,7 +50,7 @@ _(March 2023 – February 2024 / 12 Months)_
 
 ## 📘 Skill Overview
 
-| **Kategori**                  | **Badges**                                                                                                                                                                                                                             |
+| **Category**                  | **Field**                                                                                                                                                                                                                             |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🔍 **Data Roles & Concepts**  | ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-blue?logo=data&logoColor=white) ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-006400?logo=science&logoColor=white) ![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-9A031E?logo=openai&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?logo=plotly&logoColor=white) |
 | 🤖 **AI & Machine Learning**  | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?logo=ml&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-191970?logo=openai&logoColor=white)                                      |

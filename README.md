@@ -6,50 +6,35 @@
 
 Data Science graduate from Budi Luhur University (GPA: 3.9, scholarship recipient) with strong technical skills in Python, machine learning (supervised & unsupervised), and natural language processing. Experienced through multiple internships and research roles, with proven ability to build end-to-end data solutions. Proficient in Excel (incl. VBA), with knowledge in SQL, and Google Cloud tools (BigQuery, Looker, Looker Studio). Actively building an AI/ML portfolio on GitHub, showcasing a deep commitment to real-world problem solving and continuous learning.
 
----
-
 ## 💼 Experience
 
-### Astra Insurance - Data Science Intern  
+### 📌 Astra Insurance - Data Science Intern  
 _(April 2025 – September 2025 / 6 Months)_  
 - Developed Natural Language Processing (NLP) models using Python to extract insights from text-based data
 
-### Kominfo - MSIB Intern  
+### 📌 Kominfo - MSIB Intern  
 _(March 2024 – August 2024 / 6 Months)_  
 - Built supervised machine learning models for predictive analytics tasks using real-world datasets
 
-### Budi Luhur - Machine Learning Research Assistant  
+### 📌 Budi Luhur - Machine Learning Research Assistant  
 _(March 2023 – February 2024 / 12 Months)_  
 - Conducted research and developed unsupervised machine learning models for academic use cases
 
----
-
 ## 🎓 Education
-
 - **Budi Luhur University** : Data Science (2021 - 2025)  
 - **SMAN 1 Bogor – SMAN 10 Semarang** : Science (2017 - 2020)
 
----
-
 ## 📜 Certifications & Training
-
 -  **National Data Science Tournament 2022**  
   *Workshop & Tournament by Data Academy*
-
 - **Data Science Fundamentals**  
   *Workshop by DQLAB*
 
----
-
 ## 🌐 Language
-
 - 🇮🇩 Indonesian (Native)  
 - 🇬🇧 English (Intermediate)
 
----
-
 ## 📘 Skill Overview
-
 | **Category**                  | **Field**                                                                                                                                                                                                                             |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🔍 **Data Roles & Concepts**  | ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-blue?logo=data&logoColor=white) ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-006400?logo=science&logoColor=white) ![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-9A031E?logo=openai&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?logo=plotly&logoColor=white) |

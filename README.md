@@ -4,21 +4,21 @@
 ![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-9A031E?logo=openai&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?logo=plotly&logoColor=white)
 
-Data Science graduate from Budi Luhur University (GPA: 3.9, scholarship recipient) with strong technical skills in Python, machine learning (supervised & unsupervised), and natural language processing. Experienced through multiple internships and research roles, with proven ability to build end-to-end data solutions. Proficient in Excel (incl. VBA), with knowledge in SQL, and Google Cloud tools (BigQuery, Looker, Looker Studio). Actively building an AI/ML portfolio on GitHub, showcasing a deep commitment to real-world problem solving and continuous learning.
+Data Analyst with a Machine Learning background from Budi Luhur University (GPA: 3.9), experienced in transforming complex datasets into actionable business insights. Highly proficient in Excel, (incl. VBA) to streamline data workflows. Skilled in Python for data analysis, SQL for data extraction, and data visualization using Tableau and Looker Studio. Strong capability in handling complex data analysis, particularly in forecasting and trend analysis. Known for building intuitive and user-friendly dashboards that effectively communicate insights to both technical and non-technical stakeholders. Proven ability to bridge technical analysis with business needs to support data-driven decision-making.
 
 ## 💼 Experience
 
 ### 📌 Astra Insurance - Data Science Intern  
 _(April 2025 – September 2025 / 6 Months)_  
-- Developed Natural Language Processing (NLP) models using Python to extract insights from text-based data
+- Analyzed text-based datasets using NLP techniques to generate insights for cost containment analysis and support data-driven decision-making
 
 ### 📌 Kominfo - MSIB Intern  
 _(March 2024 – August 2024 / 6 Months)_  
-- Built supervised machine learning models for predictive analytics tasks using real-world datasets
+- End-to-end data analysis on natural disaster datasets to identify patterns and trends, including data extraction using SQL and built dashboards for monitoring and reporting
 
 ### 📌 Budi Luhur - Machine Learning Research Assistant  
 _(March 2023 – February 2024 / 12 Months)_  
-- Conducted research and developed unsupervised machine learning models for academic use cases
+- Collected, cleaned, and analyzed datasets using Excel, and performed exploratory data analysis to support machine learning research and data-driven insights
 
 ## 🎓 Education
 - **Budi Luhur University** : Data Science (2021 - 2025)  
